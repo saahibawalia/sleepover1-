@@ -39,4 +39,8 @@ cute-parrot.jfif
 2. Make sure the images are in the same folder as the HTML file.
 3. Open the HTML file in a web browser.
 
+Link:
+
+file:///C:/Users/Kids/Documents/sleepover%20projects/Animal%20website/Cute%20Animals.html
+
 saahibawalia
